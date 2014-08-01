@@ -5,7 +5,7 @@
 //  Created by Gerald on 2/11/14.
 //  Copyright (c) 2014 Apportable. All rights reserved./Users/rochelleshen/FlappyBird-SpriteBuilder/FlappyBird.spritebuilder/Source/GamePlayScene.h
 //
-
+float timeSinceObstacle;
 #import "CCNode.h"
 #import "Character.h"
 
